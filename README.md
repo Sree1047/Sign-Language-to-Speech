@@ -71,10 +71,4 @@ We welcome contributions! Before submitting a pull request, please check out the
 
 ---
 
-## 📜 License  
-
-This project is licensed under the **BSD 3-Clause License**. See the full details in the [LICENSE](LICENSE) file.  
-
----
-
 📌 **For all documentation, including installation, setup, and FAQs, visit the** 👉 **[Project Wiki](https://github.com/RhythmusByte/Sign-Language-to-Speech/wiki)**.  
