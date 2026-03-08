@@ -64,5 +64,4 @@ Sign-Language-to-Speech/
 For a **detailed breakdown of modules and system design**, refer to the **[Project Documentation](https://github.com/RhythmusByte/Sign-Language-to-Speech/wiki)**.  
 
 ---
-
 📌 **For all documentation, including installation, setup, and FAQs, visit the** 👉 **[Project Wiki](https://github.com/RhythmusByte/Sign-Language-to-Speech/wiki)**.  
