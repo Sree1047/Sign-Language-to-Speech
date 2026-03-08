@@ -65,10 +65,4 @@ For a **detailed breakdown of modules and system design**, refer to the **[Proje
 
 ---
 
-## 📢 Contributing  
-
-We welcome contributions! Before submitting a pull request, please check out the **[Contributing Guide](https://github.com/RhythmusByte/Sign-Language-to-Speech/wiki/Contributions)**.  
-
----
-
 📌 **For all documentation, including installation, setup, and FAQs, visit the** 👉 **[Project Wiki](https://github.com/RhythmusByte/Sign-Language-to-Speech/wiki)**.  
